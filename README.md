@@ -1,5 +1,5 @@
-### Hey There 👋
-# I'm a 21 years old Data Science Undergraduate in SLIIT, Sri Lanka. 
+## Hey There 👋
+### I'm a 21 years old Data Science Undergraduate in SLIIT, Sri Lanka. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
