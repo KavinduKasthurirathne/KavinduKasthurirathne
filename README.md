@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavindu Kasthurirathne</h1>
 <h3 align="center">Data Science Undergraduate at SLIIT, Sri Lanka.</h3>
 
-- 🎓 I’m currently following **BSc. (Hons) Information Technology specializing in Data Science**
-
 - 📫 How to reach me **kavindu.kasthu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
