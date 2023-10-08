@@ -1,7 +1,5 @@
 <h1 align="left">Hey, I'm Kavindu Kasthurirathne👋</h1>
 <h3 align="left">Data Science Undergraduate at SLIIT, Sri Lanka</h3>
-<h4 align="left">Data Analytics & Data Engineering - Intern</h4>
-
 
 - 📫 How to reach me **kavindu.kasthu@gmail.com**
 
