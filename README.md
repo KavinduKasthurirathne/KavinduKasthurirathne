@@ -56,8 +56,8 @@
   </a>
 </p>
 
-<p>📧 **Email:** kavindu.kasthu@gmail.com</p>
-<p>🖥️ **Portfolio:** https://kavindukasthurirathne.github.io/Portfolio-KavinduKasthurirathne/</p>
+📧 **Email:** kavindu.kasthu@gmail.com
+🖥️ **Portfolio:** https://kavindukasthurirathne.github.io/Portfolio-KavinduKasthurirathne/
 ---
 
 ### ⚙️ GitHub Stats
