@@ -21,10 +21,24 @@
 
 ### 📌 Featured Projects
 
-- **Customer Churn Prediction** – Built a predictive model using logistic regression & random forests to identify churn-prone customers for a telco firm.
-- **Sales Forecasting Dashboard (Power BI)** – Designed an interactive dashboard that auto-updates via SQL connections and supports quarterly sales planning.
-- **Movie Recommendation System** – Created a content-based filtering system using NLP techniques on user reviews and metadata.
-- **Real-time Object Detection** – Deployed a YOLOv5-based object detector on a webcam stream for security use-cases.
+- **SeamSense – Real-time Quality Monitoring for Apparel Industry**  
+  Developed an IoT-based seam defect detection system using a fog-cloud architecture.  
+  Applied YOLO models to improve product quality and reduce rework costs.  
+  🛠️ *Python, TensorFlow, YOLO, IoT*
+
+- **Smart Home IoT System**  
+  Built a real-time temperature and humidity monitoring system with Node-RED dashboard.  
+  Used ARIMA model for environment data forecasting.  
+  🛠️ *Arduino, Node-RED, Python, ARIMA*
+
+- **Personalized Movie Recommendation Engine**  
+  Combined content-based and collaborative filtering techniques with an interactive Streamlit interface.  
+  🛠️ *Python, Streamlit, Machine Learning*
+
+- **Loan Approval Prediction Model**  
+  Built a predictive model to assist loan officers in real-time decision-making.  
+  Deployed an interactive Streamlit web app for user input and results.  
+  🛠️ *Python, Streamlit, Scikit-learn*
 
 ---
 
