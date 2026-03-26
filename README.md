@@ -57,7 +57,7 @@
 </p>
 
 📧 **Email:** kavindu.kasthu@gmail.com
-🖥️ **Portfolio:** https://kavindukasthurirathne.github.io/Portfolio-KavinduKasthurirathne/
+🖥️ **Portfolio:** 
 ---
 
 ### ⚙️ GitHub Stats
